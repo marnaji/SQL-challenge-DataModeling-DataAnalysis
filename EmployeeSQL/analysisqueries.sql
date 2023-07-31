@@ -1,4 +1,4 @@
--- Query * FROM Each Table Confirming Data
+-- Confirming Data Query all from each table
 SELECT * FROM departments;
 SELECT * FROM titles;
 SELECT * FROM employees;
