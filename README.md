@@ -4,7 +4,7 @@
 For this project, I designed the tables to hold the data from the CSV files, imported the CSV files into a SQL database, and then answered questions about the data. I performed data modeling, data engineering, and data analysis, respectively.
 
 ### Data Modeling 
-CSV file has been inspected and I used  <a href="https://www.quickdatabasediagrams.com/" target="_blank"> QuickDBD </a> to create the sketch of an ERD ( Entity RElashionship Diagram).
+CSV file has been inspected and I used  <a href="https://www.quickdatabasediagrams.com/" target="_blank"> QuickDBD </a> to create the sketch of an ERD ( Entity Relashionship Diagram).
 Here is the image of the ERD:
 
 <img src="/EmployeeSQL/QuickDBD-Employee Diagram.png" width="400" >
